@@ -1,10 +1,12 @@
 # Hi 👋, I'm Guru Chandrayudu
 
-<h3 align="center">Computer Science Graduate Aspirant | Cybersecurity Enthusiast | Aspiring SOC Analyst</h3>
+<h3 align="center">Computer Science Engineering Student | Cybersecurity Enthusiast | Aspiring Software Professional</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Learning+Today%2C+Building+Tomorrow.;Computer+Science+%7C+Cybersecurity;Java+%7C+SQL+%7C+Linux;Exploring+Cybersecurity+and+Mainframe+Technologies" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guru-chandrayudu/">
