@@ -1,112 +1,190 @@
-<h1 align="center">Hi 👋, I'm Guru Chandrayudu</h1>
-<h3 align="center">Cybersecurity Trainee | Ethical Hacking & Penetration Testing | Aspiring SOC Analyst</h3>
+# Hi 👋, I'm Guru Chandrayudu
+
+<h3 align="center">Computer Science Graduate Aspirant | Cybersecurity Enthusiast | Aspiring SOC Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=I+think+like+an+attacker+so+I+can+defend+better.;Ethical+Hacking+%7C+Penetration+Testing+%7C+SOC+Analyst;Kali+Linux+%7C+Burp+Suite+%7C+Nmap+%7C+Wireshark;CTF+Competitor+%40+MythX+National+Level" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Learning+Today%2C+Building+Tomorrow.;Computer+Science+%7C+Cybersecurity;Java+%7C+SQL+%7C+Linux;Exploring+Cybersecurity+and+Mainframe+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guru-chandrayudu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:guruchandrayudu628@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Add resume link below and uncomment
-  <a href="RESUME_URL_HERE"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/guru-chandrayudu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:guruchandrayudu628@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuruChandrayudu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Final-year **B.Tech CSE (Cybersecurity Specialization)** student at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai (CGPA: 8.4)
-- 🛡️ Hands-on training in **ethical hacking & penetration testing** — recon, exploitation, and reporting across the full attack lifecycle
-- 🚩 Competed in **MythX**, a nation-level Cybersecurity CTF Challenge
-- 🔍 Practiced identifying and exploiting **OWASP Top 10** vulnerabilities (SQLi, XSS, IDOR, broken auth) in controlled labs
-- 🌐 Comfortable across offensive (VAPT, recon, exploitation) and defensive (SIEM, log analysis, firewall hardening) security work
-- 💼 Currently seeking: **SOC Analyst**, **Junior Penetration Tester**, and cybersecurity/software fresher roles
-- 📍 Based in Chennai, Tamil Nadu, India — open to Remote | Hybrid | On-site
-
-<!-- Optional fun fact — add a line here if you want to humanize the profile, e.g.:
-- ⚡ Fun fact: [your fun fact here]
--->
+- 🎓 Final-year B.Tech Computer Science and Engineering student specializing in Cybersecurity at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai.
+- 💻 Interested in software development, cybersecurity, and enterprise technologies.
+- ☕ Familiar with Java programming, Object-Oriented Programming, JDBC, and SQL.
+- 🐍 Have basic knowledge of Python and have used it to develop learning and academic projects.
+- 🔐 Learning cybersecurity fundamentals, web application security, and network security.
+- 🐧 Familiar with Linux and Kali Linux command-line operations.
+- 📚 Currently exploring mainframe technologies such as COBOL, JCL, and DB2.
+- 🎯 Interested in entry-level opportunities in software development, cybersecurity, and SOC operations.
+- 📍 Chennai, Tamil Nadu, India.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
-**Languages**
+**Programming Languages**
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-**Security Tools**
+**Web Technologies**
+
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-**Databases & Platforms**
+**Database & Development Tools**
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-**Domains**
+**Cybersecurity & Operating Systems**
+
 <p>
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/VAPT-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/SIEM_%2F_SOC-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network_Security-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 </p>
+
+**Core Computer Science Concepts**
+
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- SQL Queries and CRUD Operations
+- Computer Networks Fundamentals
+- Operating Systems Fundamentals
+- Basic Web Application Security
+
+---
+
+### 🚀 Academic & Learning Projects
+
+#### 1. Student Management System
+
+**Technologies:** Java | Java Swing | JDBC | MySQL
+
+- Developed a desktop application to manage student records.
+- Implemented Create, Read, Update, and Delete (CRUD) operations.
+- Added student search and duplicate-ID validation.
+- Used JDBC for database connectivity.
+- Applied Object-Oriented Programming and exception handling.
+
+#### 2. Web Application Security Testing
+
+**Technologies:** DVWA | PortSwigger Web Security Academy | Burp Suite
+
+- Practised identifying common web application vulnerabilities in controlled learning environments.
+- Studied SQL Injection, Cross-Site Scripting (XSS), CSRF, Command Injection, and File Inclusion.
+- Used Burp Suite to understand HTTP requests and responses.
+- Learned basic web security concepts and OWASP Top 10 vulnerabilities.
+
+#### 3. Ticket Management System
+
+**Technologies:** Python | Flask | HTML | CSS | SQLite
+
+- Working on a web-based ticket management application.
+- Exploring user login and authentication.
+- Implementing role-based access for employees and support staff.
+- Learning database integration through SQLite.
 
 ---
 
 ### 🏆 Certifications & Achievements
 
-- 🎖️ Deloitte Australia — Cyber Job Simulation
-- 🎖️ Cisco Networking Academy — Junior Cybersecurity Analyst Career Path
-- 🎖️ SQLMap From Scratch (Udemy)
-- 🎖️ Infosys — Data Structures & Algorithms in Python: Sorting Algorithms
-- 🚩 MythX — National-Level Cybersecurity CTF Challenge (Competitor)
-- 📜 Introduction to Cybersecurity
+- 🎖️ Cisco Networking Academy – Introduction to Cybersecurity.
+- 🎖️ The Linux Foundation – Introduction to Linux (LFS101).
+- 🎖️ Oracle Dev Gym – Databases for Developers: Foundations.
+- 🎖️ NPTEL – Privacy and Security in Online Social Media (Elite Certification, 68%).
+- 🏆 First Prize – Mind Maze: Innovators Arena Technical Competition.
+- 🚩 MythX – National-Level Cybersecurity CTF Challenge Participant.
+
+---
 
 ### 📚 Currently Learning
 
-- 🐳 Docker & Kubernetes
-- 🛡️ Fortinet NSE 3
-- 📊 Splunk / SOC Analyst Course (SPL, log analysis)
+- ☕ Java programming and advanced programming fundamentals.
+- 🗄️ SQL and database management.
+- 🌐 Computer networking fundamentals.
+- 🛡️ Cybersecurity fundamentals and SOC operations.
+- 📊 Introduction to Splunk and security log analysis.
+- 💻 Mainframe technologies:
+  - COBOL Programming
+  - Job Control Language (JCL)
+  - DB2 Database
 
 ---
 
-### 📊 GitHub Stats
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuruChandrayudu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruChandrayudu&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=GuruChandrayudu&show_icons=true&theme=github_dark&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuruChandrayudu&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GuruChandrayudu&theme=github-dark-blue&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=GuruChandrayudu&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
 
 ---
 
-### 🤝 Open to Collaborate On
+### 🤝 Open to Opportunities
 
-- Open-source security tools & CTF write-ups
-- VAPT / penetration testing practice projects
-- SOC / blue-team automation scripts
-- Internship & fresher role opportunities
+- Entry-level Software Development roles.
+- Cybersecurity internships and fresher opportunities.
+- SOC Analyst L1 opportunities.
+- Learning and collaborating on beginner-friendly open-source projects.
+- Academic and technical project collaborations.
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guru-chandrayudu/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:guruchandrayudu628@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <b>Learning continuously. Building projects. Growing every day. 🚀</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guru-chandrayudu/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:guruchandrayudu628@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
